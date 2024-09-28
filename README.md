@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 # PROYECTO INDIVIDUAL ENACOM TELECOMUNICACION
 
 ## INTRODUCCION
