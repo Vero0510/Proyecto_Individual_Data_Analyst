@@ -29,7 +29,7 @@ Trabajamos en la mejora de nuestros conjuntos de datos, realizando diversas tran
 
 En nuestro informe, además de la portada, hemos incluido tres páginas con análisis detallados. Cada una de ellas aborda un aspecto clave de la conectividad a internet en el país. El objetivo general es entender mejor las tecnologías, la distribución del acceso a internet por Mbps, y el avance en la cobertura de internet por hogar a lo largo del tiempo.
 
- <img src="assets/dashboard.jpeg" alt="Descripción de la imagen" width="800" />
+ <img src="assets/dashboard.jpg" alt="Descripción de la imagen" width="800" />
 
 En la primera página, analizamos las distintas tecnologías de internet disponibles. Este análisis está apoyado por dos gráficos: uno circular y otro que muestra la distribución de las tecnologías por provincia. Además, utilizamos dos KPI que se centran en la fibra óptica, con el propósito de identificar cuántas localidades deben alcanzar el 30% de cobertura y cuántas personas necesitan conectividad para superar el 60%.
 
