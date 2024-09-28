@@ -6,11 +6,15 @@
  
 Realice un proyecto de la empresa ENACOM, una entidad de telecomunicaciones, en el cual tuve acceso a varios conjuntos de datos. A través de estos recursos, se extrajo información relevante al analizar diversos aspectos, como la conectividad a internet por provincia, la evaluación de las tecnologías disponibles y la media de velocidad de descarga en megabits por segundo (mbps).
 
-# Datasets:
+## Indice:
 
 1. [OBJETIVOS](#OBJETIVOS)
 2. [DASHBOARDS](#DASHBOARDS)
 3. [CONCLUSIONES](##CONCLUSIONES)
+
+## Datasets
+
+
 
 Trabajamos en la mejora de nuestros conjuntos de datos, realizando diversas transformaciones. Esto incluyó cambios en el tipo de datos, la adición de columnas relevantes y la eliminación de datos ineccesarios. Además, nos ocupamos de corregir registros con errores. Además,Tambien utilizamos gráficos para observar patrones y extraer conclusiones. Durante este proceso, identificamos outliers y valores duplicados en los conjuntos de datos.
 
