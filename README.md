@@ -28,4 +28,4 @@ Nuestro panel de control también incluye dos indicadores clave de rendimiento (
 Segun los dataset proporcionados la provincia con mas consumo de internet es Chubut y la provincia con menos consumo de internet es Formosa, donde 600 registros no cumplieron con el objetivo del kpi de superar 4% la velocidad del internet por provincia, los registros que no alcanzaron su objetivo deben realizar una inversion decidida en tecnologias mas avanzadas para aumentar su velocidad, tambien es necesario mejorar la infraesructura de telecomunicaciones.
 
 Hasta el 2020 algunas provincias no tenian las tecnologias Wireless y Cablemodem, luego de ese año todas las provincias contaban con todas las tecnologias. La tecnologia mas utilizada es la Fibra Optica por lo que hay que destacar su eficacia y calidad, aunque sea mas costoso, la velocidad es mas rapida que las demas tecnologias.
->>>>>>> 6141d386f4a77641a7a93bfcf27ff63caa81547b
+
