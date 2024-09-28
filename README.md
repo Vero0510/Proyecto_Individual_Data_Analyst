@@ -14,6 +14,9 @@ Realice un proyecto de la empresa ENACOM, una entidad de telecomunicaciones, en 
 
 ## Datasets
 
+1. (Accesos cada 100 hogares)[Datasets/df_accesos_100_hogares.csv]
+2. 
+
 
 
 Trabajamos en la mejora de nuestros conjuntos de datos, realizando diversas transformaciones. Esto incluyó cambios en el tipo de datos, la adición de columnas relevantes y la eliminación de datos ineccesarios. Además, nos ocupamos de corregir registros con errores. Además,Tambien utilizamos gráficos para observar patrones y extraer conclusiones. Durante este proceso, identificamos outliers y valores duplicados en los conjuntos de datos.
