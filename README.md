@@ -29,6 +29,8 @@ Trabajamos en la mejora de nuestros conjuntos de datos, realizando diversas tran
 
 En nuestro informe, además de la portada, hemos incluido tres páginas con análisis detallados. Cada una de ellas aborda un aspecto clave de la conectividad a internet en el país. El objetivo general es entender mejor las tecnologías, la distribución del acceso a internet por Mbps, y el avance en la cobertura de internet por hogar a lo largo del tiempo.
 
+ <img src="assets/dashboard.jpeg" alt="Descripción de la imagen" width="800" />
+
 En la primera página, analizamos las distintas tecnologías de internet disponibles. Este análisis está apoyado por dos gráficos: uno circular y otro que muestra la distribución de las tecnologías por provincia. Además, utilizamos dos KPI que se centran en la fibra óptica, con el propósito de identificar cuántas localidades deben alcanzar el 30% de cobertura y cuántas personas necesitan conectividad para superar el 60%.
 
 La segunda página se enfoca en el acceso a internet en Mbps, donde hemos incorporado tres gráficos. El primero es un mapa que ilustra la conectividad por provincias. El segundo muestra la distribución de rangos de Mbps, desde los valores más bajos hasta los más altos. El tercer gráfico es de barras y destaca específicamente a las provincias con baja conectividad. Finalmente, un KPI mide nuestro objetivo de que las provincias con baja conectividad logren superar el 20% de Mbps, incrementando su velocidad en un 10%, y analizamos si alcanzan ese objetivo.
