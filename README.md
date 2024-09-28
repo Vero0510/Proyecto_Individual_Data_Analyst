@@ -37,7 +37,24 @@ En la tercera y última página, presentamos un gráfico de tendencia que muestr
 
 ## CONCLUSIONES
 
-Segun los dataset proporcionados la provincia con mas consumo de internet es Chubut y la provincia con menos consumo de internet es Formosa, donde 600 registros no cumplieron con el objetivo del kpi de superar 4% la velocidad del internet por provincia, los registros que no alcanzaron su objetivo deben realizar una inversion decidida en tecnologias mas avanzadas para aumentar su velocidad, tambien es necesario mejorar la infraesructura de telecomunicaciones.
+En base a los datos proporcionados, observamos que las tecnologías más utilizadas en Argentina son 4G, con un 27,3% de uso, y 3G, con un 23,8%. Sin embargo, la conectividad mediante fibra óptica aún es limitada. Para alcanzar un 30% de cobertura con esta tecnología, se requieren 145 localidades adicionales conectadas a fibra óptica, y para cubrir al 60% de la población, se necesitarían 11.732.517 personas más con acceso a esta tecnología.
 
-Hasta el 2020 algunas provincias no tenian las tecnologias Wireless y Cablemodem, luego de ese año todas las provincias contaban con todas las tecnologias. La tecnologia mas utilizada es la Fibra Optica por lo que hay que destacar su eficacia y calidad, aunque sea mas costoso, la velocidad es mas rapida que las demas tecnologias.
+En cuanto a la conectividad general, identificamos que 10 provincias se encuentran en un nivel bajo de conectividad. Incluso con un aumento del 10% en la velocidad de Mbps, cuatro de ellas (Santa Cruz, Tierra del Fuego, Chubut y San Juan) no lograrían superar los niveles esperados. Este dato subraya la desigualdad en el acceso a internet y la necesidad de mayor inversión en estas áreas.
+
+Por otro lado, el análisis del acceso a internet por cada 100 hogares desde 2014 hasta 2024 muestra que, aunque se busca un aumento del 2% trimestral, 14 trimestres en todo el país no lograron alcanzar esta meta. Esto resalta las dificultades para mejorar la conectividad de manera sostenida y equitativa a nivel nacional.
+
+Propuestas:
+Inversión en infraestructura de fibra óptica: Priorizar las inversiones en las 145 localidades que aún no tienen la cobertura necesaria para alcanzar el 30%. Esto no solo mejoraría la conectividad, sino que sentaría las bases para una cobertura más amplia en el futuro.
+
+Programas específicos para provincias con baja conectividad: Implementar programas focalizados en las provincias más afectadas (Santa Cruz, Tierra del Fuego, Chubut y San Juan) para asegurar que, incluso con el aumento del 10%, logren mejorar su acceso a internet. Esto podría incluir incentivos para operadores y apoyo gubernamental.
+
+Monitoreo trimestral de accesos a internet: Establecer un sistema de monitoreo que permita evaluar en tiempo real el avance del 2% de aumento trimestral en el acceso a internet por cada 100 hogares, permitiendo ajustar estrategias rápidamente si las metas no se cumplen por ejemplo: desarrollo de un Dashboard de Monitoreo en Tiempo Real y Reportes Automatizados y Alertas de mensajes.
+
+
+
+
+
+
+
+
 
