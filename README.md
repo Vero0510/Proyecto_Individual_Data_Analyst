@@ -1,6 +1,6 @@
 # PROYECTO INDIVIDUAL ENACOM TELECOMUNICACION
 
- <img src="assets/images.jpeg" alt="Descripción de la imagen" width="800" />
+ <img src="assets/imeges.jpeg" alt="Descripción de la imagen" width="800" />
 
 ## INTRODUCCION
  
