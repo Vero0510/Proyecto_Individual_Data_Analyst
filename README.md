@@ -45,7 +45,7 @@ En cuanto a la conectividad general, identificamos que 10 provincias se encuentr
 
 Por otro lado, el análisis del acceso a internet por cada 100 hogares desde 2014 hasta 2024 muestra que, aunque se busca un aumento del 2% trimestral, 14 trimestres en todo el país no lograron alcanzar esta meta. Esto resalta las dificultades para mejorar la conectividad de manera sostenida y equitativa a nivel nacional.
 
-Propuestas:
+### Propuestas:
 Inversión en infraestructura de fibra óptica: Priorizar las inversiones en las 145 localidades que aún no tienen la cobertura necesaria para alcanzar el 30%. Esto no solo mejoraría la conectividad, sino que sentaría las bases para una cobertura más amplia en el futuro.
 
 Programas específicos para provincias con baja conectividad: Implementar programas focalizados en las provincias más afectadas (Santa Cruz, Tierra del Fuego, Chubut y San Juan) para asegurar que, incluso con el aumento del 10%, logren mejorar su acceso a internet. Esto podría incluir incentivos para operadores y apoyo gubernamental.
